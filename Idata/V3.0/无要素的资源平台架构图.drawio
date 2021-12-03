@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T02:48:35.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="9IpgQIOsXKIFmtXLNIey" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T03:00:29.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="MAUQZREjTqWrEgPAzvSb" version="15.2.9" type="github">
   <diagram id="wqCFDM9vft8Xy71D3Zus" name="第 1 页">
-    <mxGraphModel dx="1423" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1392" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,6 +150,12 @@
         </mxCell>
         <mxCell id="hdDhE1ylpkCy4SGOwnb--63" value="&lt;font style=&quot;font-size: 16px&quot;&gt;资源详情&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="819.53" y="1098" width="103" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hdDhE1ylpkCy4SGOwnb--65" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontColor=#3333FF;width=14;endSize=11.45;fillColor=#99FFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="486.5" y="1125" as="sourcePoint" />
+            <mxPoint x="412" y="1125" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
