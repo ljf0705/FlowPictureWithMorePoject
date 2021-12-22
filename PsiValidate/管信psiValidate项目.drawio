@@ -1,35 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T12:08:02.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dhY5dleyYepSQkInLrWR" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T12:12:18.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="IgHMtewyEmPj60anlNfI" version="15.9.6" type="github">
   <diagram id="RVbAGFy0f-5nC3Yr0MLG" name="第 1 页">
     <mxGraphModel dx="1226" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-1" value="n个psi任务的执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641" y="139" width="120" height="60" as="geometry" />
+          <mxGeometry x="793" y="124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-2" value="n个psi任务执行结果的合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="638" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="262" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-3" value="根据并集获取一致性的特征数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="638" y="405" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-4" value="一致性的特征数据的比对并获取比对结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="638" y="548" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="533" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-5" value="step1：job1_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="129" width="120" height="80" as="geometry" />
+          <mxGeometry x="997" y="114" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-6" value="step2：job1_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="848" y="267" width="120" height="80" as="geometry" />
+          <mxGeometry x="1000" y="252" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-7" value="step3：job1_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="387" width="120" height="80" as="geometry" />
+          <mxGeometry x="1002" y="372" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-8" value="step4：job1_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="531" width="120" height="80" as="geometry" />
+          <mxGeometry x="1002" y="516" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhF9SbVOr9UmSbXPlZD9-9" value="定时任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="325" width="120" height="80" as="geometry" />
+          <mxGeometry x="1224" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jhF9SbVOr9UmSbXPlZD9-10" value="psi任务1执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhF9SbVOr9UmSbXPlZD9-11" value="psi任务2的执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="211" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhF9SbVOr9UmSbXPlZD9-13" value="定时任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="209" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jhF9SbVOr9UmSbXPlZD9-14" value="psi任务3的执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
