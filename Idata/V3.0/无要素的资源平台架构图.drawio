@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T08:25:39.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IXPqQciklcSUi83DlTAS" version="16.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-29T08:55:22.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Js8L8k1TNV4f9ke1BZrk" version="16.4.7" type="github" pages="2">
   <diagram id="wqCFDM9vft8Xy71D3Zus" name="第 1 页">
     <mxGraphModel dx="1416" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tPsCTcflIFyFWNoOZ0cB" name="resourceOperateChange">
-    <mxGraphModel dx="1577" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2070" dy="1029" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="En6IIpJPYBVFngJee154-0" />
         <mxCell id="En6IIpJPYBVFngJee154-1" parent="En6IIpJPYBVFngJee154-0" />
@@ -188,7 +188,7 @@
         <mxCell id="En6IIpJPYBVFngJee154-29" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="En6IIpJPYBVFngJee154-1" source="En6IIpJPYBVFngJee154-8" target="En6IIpJPYBVFngJee154-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="En6IIpJPYBVFngJee154-8" value="共享资源&lt;br&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/resource&lt;br&gt;/uploadResourceInformation&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
+        <mxCell id="En6IIpJPYBVFngJee154-8" value="共享资源&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;（url:&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/&lt;br&gt;resource/share&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
           <mxGeometry x="88" y="396" width="300" height="84" as="geometry" />
         </mxCell>
         <mxCell id="En6IIpJPYBVFngJee154-9" value="资源状态：publish&lt;br&gt;数据集状态：publish" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
@@ -202,7 +202,7 @@
         <mxCell id="En6IIpJPYBVFngJee154-32" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="En6IIpJPYBVFngJee154-1" source="En6IIpJPYBVFngJee154-10" target="En6IIpJPYBVFngJee154-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="En6IIpJPYBVFngJee154-10" value="提供方下架资源&lt;br&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/resource&lt;br&gt;/uploadResourceInformation&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
+        <mxCell id="En6IIpJPYBVFngJee154-10" value="提供方下架资源&lt;br&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/resource&lt;br&gt;/share/offline&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
           <mxGeometry x="88" y="935.5" width="300" height="84" as="geometry" />
         </mxCell>
         <mxCell id="En6IIpJPYBVFngJee154-12" value="资源状态：offline&lt;br&gt;数据集状态：offline&lt;br&gt;数据申请状态：&lt;br&gt;offline" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
@@ -214,7 +214,7 @@
         <mxCell id="En6IIpJPYBVFngJee154-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="En6IIpJPYBVFngJee154-1" source="En6IIpJPYBVFngJee154-13" target="En6IIpJPYBVFngJee154-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="En6IIpJPYBVFngJee154-13" value="需求方申请资源&lt;br&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/resource&lt;br&gt;/uploadResourceInformation&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
+        <mxCell id="En6IIpJPYBVFngJee154-13" value="需求方申请资源&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/demander/resource&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(6 , 125 , 23) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt ; text-align: center&quot;&gt;/apply/new&lt;/span&gt;）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
           <mxGeometry x="88" y="570.87" width="300" height="84" as="geometry" />
         </mxCell>
         <mxCell id="En6IIpJPYBVFngJee154-14" value="资源申请状态：wait_audit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
@@ -226,7 +226,7 @@
         <mxCell id="En6IIpJPYBVFngJee154-31" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="En6IIpJPYBVFngJee154-1" source="En6IIpJPYBVFngJee154-15" target="En6IIpJPYBVFngJee154-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="En6IIpJPYBVFngJee154-15" value="提供方审批资源&lt;br&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/resource&lt;br&gt;/uploadResourceInformation&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
+        <mxCell id="En6IIpJPYBVFngJee154-15" value="提供方审批资源&lt;br&gt;（url:&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;/api/p2p/provider/resource&lt;br&gt;/approve/update&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
           <mxGeometry x="88" y="738.87" width="300" height="84" as="geometry" />
         </mxCell>
         <mxCell id="En6IIpJPYBVFngJee154-16" value="资源申请状态：publish/reject" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="En6IIpJPYBVFngJee154-1">
