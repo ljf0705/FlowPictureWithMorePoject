@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:06:04.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fHhuza3_TINtFpgkHev1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:13:36.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rPIUoV_fmB085d_3-SoU" version="20.0.4" type="github">
   <diagram id="ZwvVJ8uQYI9QKFFktOgC" name="Page-1">
-    <mxGraphModel dx="1056" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,8 +265,8 @@
         <mxCell id="YV3IfEap0-Uv11XA7HGC-95" value="需求方点击运行mpc py任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="249" y="269" width="159" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="YV3IfEap0-Uv11XA7HGC-96" value="需求方构建环境变量，用于传递算法信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="250.5" y="642" width="158" height="61" as="geometry" />
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-96" value="需求方读取yml模板，写入环境变量以及各种运行参数，请求内核接口传入参数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250.5" y="642" width="155.5" height="83" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-97" value="使用job方式拉起所有方的算法容器，用于执行任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="496" y="642" width="158" height="61" as="geometry" />
