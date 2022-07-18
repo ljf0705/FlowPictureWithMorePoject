@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T05:58:30.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CoidXkohsurrbBlnnmPh" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:06:04.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fHhuza3_TINtFpgkHev1" version="20.0.4" type="github">
   <diagram id="ZwvVJ8uQYI9QKFFktOgC" name="Page-1">
     <mxGraphModel dx="1056" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
         <mxCell id="YV3IfEap0-Uv11XA7HGC-93" value="需求方生成本方的算法参数文件，通知提供方生成本方算法参数文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="249.5" y="396" width="159" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="YV3IfEap0-Uv11XA7HGC-94" value="提供方接到需求方通知，提供方生成本方的算法任务文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-94" value="提供方接受通知，提供方生成本方的算法任务文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="249" y="530" width="158" height="61" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-95" value="需求方点击运行mpc py任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
