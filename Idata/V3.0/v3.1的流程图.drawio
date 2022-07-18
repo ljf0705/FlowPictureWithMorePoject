@@ -1,16 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T07:35:43.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DXqrwjLdbplix_CtU1JM" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T07:51:02.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WwiLoYLM9b3DVoBjEgrk" version="20.0.4" type="github">
   <diagram id="ZwvVJ8uQYI9QKFFktOgC" name="Page-1">
     <mxGraphModel dx="1056" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-123" value="Text" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700.5" y="139" width="211" height="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-120" value="Text" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="139" width="211" height="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-122" value="Text" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="216" y="139" width="232" height="1110" as="geometry" />
+        </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-1" value="智邦平台mpc任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="265" y="158" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-3" value="内核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="502" y="158" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YV3IfEap0-Uv11XA7HGC-4" value="mpc算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-4" value="mpc算法侧" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="739" y="158" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YV3IfEap0-Uv11XA7HGC-5">
@@ -256,41 +265,92 @@
         <mxCell id="YV3IfEap0-Uv11XA7HGC-7" value="数据库" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="603" y="1347" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-93" target="YV3IfEap0-Uv11XA7HGC-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-93" value="需求方生成本方的算法参数文件，通知提供方生成本方算法参数文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="249.5" y="396" width="159" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-94" target="YV3IfEap0-Uv11XA7HGC-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-94" value="提供方接受通知，提供方生成本方的算法任务文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="249" y="530" width="158" height="61" as="geometry" />
+          <mxGeometry x="250" y="530" width="158" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-95" target="YV3IfEap0-Uv11XA7HGC-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-95" value="需求方点击运行mpc py任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="249" y="269" width="159" height="89" as="geometry" />
+          <mxGeometry x="249" y="269" width="159" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-96" target="YV3IfEap0-Uv11XA7HGC-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-96" value="需求方读取yml模板，写入环境变量以及各种运行参数，请求内核接口传入参数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="250.5" y="642" width="155.5" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-97" target="YV3IfEap0-Uv11XA7HGC-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-97" value="使用job方式拉起所有方的算法容器，用于执行任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="496" y="642" width="158" height="79" as="geometry" />
+          <mxGeometry x="496" y="644" width="158" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-98" target="YV3IfEap0-Uv11XA7HGC-99">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-98" value="容器正常启动，算法读取环境变量，获取执行参数，开始运行任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="727" y="642" width="164" height="81" as="geometry" />
+          <mxGeometry x="727" y="643" width="164" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-99" target="YV3IfEap0-Uv11XA7HGC-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-99" value="运行中，算法回调某一方智邦接口，更新任务的总运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="779" width="164" height="67" as="geometry" />
+          <mxGeometry x="727" y="774" width="164" height="67" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-100" value="更新多方任务总运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="253" y="836" width="164" height="67" as="geometry" />
+          <mxGeometry x="244" y="820" width="164" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567.4444444444443" y="852.5555555555554" as="targetPoint" />
+            <mxPoint x="719.0000000000002" y="913.5185185185185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="YV3IfEap0-Uv11XA7HGC-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="795.9999999999998" y="960" as="sourcePoint" />
+            <mxPoint x="805.9999999999998" y="1145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="806" y="960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-101" value="运行完成或者失败，算法回调某一方的智邦接口，更新任务的总运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="901" width="168" height="91" as="geometry" />
+          <mxGeometry x="720" y="869" width="168" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-102" target="YV3IfEap0-Uv11XA7HGC-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-102" value="生成日志文件和结果文件，写入到内核的提前商议路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="727" y="1047" width="164" height="67" as="geometry" />
+          <mxGeometry x="732" y="1113" width="164" height="67" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-103" value="日志和结果文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1055" width="164" height="67" as="geometry" />
+          <mxGeometry x="495" y="1113" width="164" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-104" target="YV3IfEap0-Uv11XA7HGC-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-104" value="到商议好的路径下，读取日志和结果文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="249" y="1052" width="164" height="67" as="geometry" />
+          <mxGeometry x="254" y="1114" width="164" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YV3IfEap0-Uv11XA7HGC-105" target="YV3IfEap0-Uv11XA7HGC-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-105" value="实时查询多方任务单独状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="254" y="963" width="164" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-106" value="获取多方任务单独运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="499" y="963" width="164" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
