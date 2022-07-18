@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:13:36.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rPIUoV_fmB085d_3-SoU" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T07:29:33.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YCoSYwcqZK1mLWo6ahVK" version="20.0.4" type="github">
   <diagram id="ZwvVJ8uQYI9QKFFktOgC" name="Page-1">
-    <mxGraphModel dx="1056" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,14 +274,14 @@
         <mxCell id="YV3IfEap0-Uv11XA7HGC-98" value="容器正常启动，算法读取环境变量，获取执行参数，开始运行任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="727" y="642" width="164" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="YV3IfEap0-Uv11XA7HGC-99" value="运行中，回调智邦接口，更新任务的运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-99" value="运行中，算法回调某一方智邦接口，更新任务的总运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="720" y="771" width="164" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="YV3IfEap0-Uv11XA7HGC-100" value="更新任务的运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-100" value="更新多方任务总运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="249" y="815" width="164" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="YV3IfEap0-Uv11XA7HGC-101" value="运行完成或者失败，回调智邦接口，更新任务的运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="893" width="164" height="67" as="geometry" />
+        <mxCell id="YV3IfEap0-Uv11XA7HGC-101" value="运行完成或者失败，算法回调某一方的智邦接口，更新任务的总运行状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="893" width="168" height="91" as="geometry" />
         </mxCell>
         <mxCell id="YV3IfEap0-Uv11XA7HGC-102" value="生成日志文件和结果文件，写入到内核的提前商议路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="727" y="1039" width="164" height="67" as="geometry" />
